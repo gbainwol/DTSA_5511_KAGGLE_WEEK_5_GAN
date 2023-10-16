@@ -2,6 +2,8 @@
 Repository for my Kaggle GAN Project 
 
 *NOTE*
+
+
 - The datafiles are too big to be uploaded to the repository. 
 
 - The datafiles used for this project can be found here: 
