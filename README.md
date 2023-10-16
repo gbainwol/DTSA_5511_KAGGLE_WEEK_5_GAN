@@ -2,8 +2,7 @@
 Repository for my Kaggle GAN Project 
 
 *NOTE*
-The datafiles are too big to be uploaded to the repository. 
+- The datafiles are too big to be uploaded to the repository. 
 
-The datafiles used for this project can be found here:
-
+- The datafiles used for this project can be found here: 
 [Kaggle Data Files](https://www.kaggle.com/competitions/gan-getting-started/data)
